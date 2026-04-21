@@ -44,7 +44,7 @@ Automated customer review funnel for local businesses. Smart sentiment routing: 
 
 ---
 
-## Published Work
+## [Published Work].(https://builder.aws.com/content/3BkkNuX8YxuFD5rP1vcoPeMdIkM/automating-quarterly-financial-analysis-with-amazon-quick).
 
 **Automating Quarterly Financial Analysis with Amazon QuickSight**  
 *AWS Builder Center · Apr 2026*  
@@ -58,4 +58,4 @@ End-to-end automated financial reporting: PDF extraction ? Amazon Textract ? 9 f
 
 ---
 
-sudheerdudi00@gmail.com
+sudheerdudi00@gmail.com 
