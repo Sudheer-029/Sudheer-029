@@ -87,7 +87,7 @@ Human-in-the-loop incident response in Slack. `/troubleshoot [issue]` → Claude
 Smart review funnel for local businesses. 4–5 stars → Google Review. 1–3 stars → private owner feedback. No app download.
 `WhatsApp Business API · Sentiment Routing · Owner Dashboard`
 
-### [Amazon Catalog → JSON-LD Pipeline](https://github.com/Sudheer-029/amazon-catalog-jsonld)
+### [Amazon Catalog → JSON-LD Pipeline](https://github.com/Sudheer-029/amazon-jsonld-pipeline)
 Transforms SP-API product data into Schema.org JSON-LD for Google Rich Results, Shopify DTC, and TikTok Shop feeds.
 `Python · Amazon SP-API · Schema.org · TikTok Shop CSV`
 
