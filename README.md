@@ -29,7 +29,7 @@ I build things that run in production, not demos.
 | AI tools built (MCP Server) | **87 enterprise tools** |
 | Daily active users (RAG system) | **300–400 users** |
 | Verified annual cost savings | **$7,724** |
-| Hackathon rank | **360 / 19,552 — Top 1.8% globally** |
+| Hackathon rank | **360 / 19,799 — Top 1% globally** |
 | Vendors managed per month | **200+ across 8 EU marketplaces** |
 | Google Rich Results pass rate | **100% — zero validation errors** |
 
@@ -75,7 +75,7 @@ I build things that run in production, not demos.
 
 ## Featured Projects
 
-### [ElectaGuide India](https://github.com/Sudheer-029/promptwars-v2) — *Top 1.8% globally (360 / 19,552)*
+### [ElectaGuide India](https://github.com/Sudheer-029/promptwars-v2) — *Top 1% globally (360 / 19,799)*
 AI-powered voter assistance platform for India in **8 Indian languages**. Gemini 2.5 Flash + FastAPI + React + Google Cloud Run.
 Built for Prompt Wars v2 international AI hackathon.
 
